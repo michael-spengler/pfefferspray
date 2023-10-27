@@ -1,3 +1,5 @@
+// Aus aktuellem Anlass setzen wir uns ausdrücklich für mehr Fairness, Friede, Freiheit und für den gesunden Menschenverstand ein.
+
 // This crypto currency is dedicated to law and order, fairness and justice, peace and love
 // It is inspired by https://twitter.com/ALDI_NordDE 
 
